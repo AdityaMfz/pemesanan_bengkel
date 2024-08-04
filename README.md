@@ -1,4 +1,4 @@
-## Dokumentasi
+## Preview
 <img width="960" alt="Screenshot 2024-08-04 201457" src="https://github.com/user-attachments/assets/6cab237d-b003-42a4-b26e-e85e484783ac">
 <img width="945" alt="Screenshot 2024-08-04 201512" src="https://github.com/user-attachments/assets/0b44040c-0361-43a8-9eb9-0e5e3e59e22f">
 <img width="944" alt="Screenshot 2024-08-04 201524" src="https://github.com/user-attachments/assets/898b22ca-4b02-425e-b605-e93639ef4d3f">
