@@ -1,17 +1,3 @@
-## Install
-Cara Install Project ke local 
--   Follow Github Saya
--   Star Repo Github Saya
--   Fork Repo Github Saya
--   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :<br> <b>git clone</b>
-``````
-https://github.com/AdityaMfz/pemesanan_bengkel.git
-`````` 
--   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd Laravel11-pemesanan-bengkel</b>
--   lalu ketik <b>composser install </b>
--   tulis migrate database pada terminal/cmd/git bash : 
-
-
 ## Dokumentasi
 <img width="960" alt="Screenshot 2024-08-04 201457" src="https://github.com/user-attachments/assets/6cab237d-b003-42a4-b26e-e85e484783ac">
 <img width="945" alt="Screenshot 2024-08-04 201512" src="https://github.com/user-attachments/assets/0b44040c-0361-43a8-9eb9-0e5e3e59e22f">
