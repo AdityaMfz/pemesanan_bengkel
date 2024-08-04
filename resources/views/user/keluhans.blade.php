@@ -33,10 +33,14 @@
         padding-top: 80px; /* Sesuaikan dengan tinggi navbar */
       }
       body {
-        background-color: #fff;
+        background-image: url('{{ asset('dashmin-1.0.0/img/bricksw.jpg') }}');
+        background-size: cover; /* Mengatur gambar agar menutupi seluruh area */
+        background-repeat: no-repeat; /* Mengatur agar gambar tidak diulang */
+        padding-top: 80px; /* Sesuaikan dengan tinggi navbar */
       }
       
         .glass-card {
+          color: #ffffff;
             background: rgba(255, 255, 255, 0.1);
             border: 1px solid rgba(255, 255, 255, 0.18);
             backdrop-filter: blur(10px);
